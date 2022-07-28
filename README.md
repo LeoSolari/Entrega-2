@@ -1,6 +1,6 @@
-# Entrega-1
+# Entrega-2
 
-OpenBootcamp entrega 1
+OpenBootcamp entrega 2
 
 Para que funciona "dotenv"?
 
@@ -46,3 +46,7 @@ Para que funcionan los SCRIPS en package.json?
 Variables de entorno de .env:
 
 PORT=8000
+
+En este caso se utilizo el template del trabajo uno para buscar el resultado deseado
+si se entra en api/goodbye aparecera un mensaje que puede ser editado mediante los query params
+y tambien se mostrara la fecha actual.
